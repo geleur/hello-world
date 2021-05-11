@@ -1,2 +1,2 @@
 # hello-world
-tutorial repostitory
+Checking functionality of branches.
